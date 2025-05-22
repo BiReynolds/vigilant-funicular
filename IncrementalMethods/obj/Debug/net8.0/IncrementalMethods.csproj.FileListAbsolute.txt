@@ -1,0 +1,15 @@
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.AssemblyInfoInputs.cache
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.AssemblyInfo.cs
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.csproj.CoreCompileInputs.cache
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.sourcelink.json
+/workspaces/vigilant-funicular/IncrementalMethods/bin/Debug/net8.0/IncrementalMethods
+/workspaces/vigilant-funicular/IncrementalMethods/bin/Debug/net8.0/IncrementalMethods.deps.json
+/workspaces/vigilant-funicular/IncrementalMethods/bin/Debug/net8.0/IncrementalMethods.runtimeconfig.json
+/workspaces/vigilant-funicular/IncrementalMethods/bin/Debug/net8.0/IncrementalMethods.dll
+/workspaces/vigilant-funicular/IncrementalMethods/bin/Debug/net8.0/IncrementalMethods.pdb
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.dll
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/refint/IncrementalMethods.dll
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.pdb
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/IncrementalMethods.genruntimeconfig.cache
+/workspaces/vigilant-funicular/IncrementalMethods/obj/Debug/net8.0/ref/IncrementalMethods.dll
